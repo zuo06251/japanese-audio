@@ -1,22 +1,22 @@
 [
   {
     "title": "2-1",
-    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson 2 MyKikitori.mp3",
+    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson%202%20MyKikitori.mp3",
     "desc": " "
   },
   {
     "title": "3-2",
-    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson 3 MyKikitori%20(1).mp3",
+    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson%203%20MyKikitori%20(1).mp3",
     "desc": " "
   },
   {
     "title": "5-1",
-    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson 5 MyKikitori.mp3",
+    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson%205%20MyKikitori.mp3",
     "desc": " "
   },
-   {
+  {
     "title": "5-2",
-    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson 5 MyKikitori%20(1).mp3",
+    "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson%205%20MyKikitori%20(1).mp3",
     "desc": " "
   },
   {
@@ -68,5 +68,5 @@
     "title": "12-2",
     "url": "https://raw.githubusercontent.com/zuo06251/japanese-audio/main/Lesson%2012%20MyKikitori%20(1).mp3",
     "desc": " "
-  },
+  }
 ]
